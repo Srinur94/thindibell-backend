@@ -1,0 +1,70 @@
+2025-07-12 12:59:50 - Starting FooddeliveryappApplication using Java 23.0.1 with PID 28240 (D:\FinalProject\fooddeliveryapp\target\classes started by iamsr in D:\FinalProject\fooddeliveryapp)
+2025-07-12 12:59:50 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 12:59:51 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-07-12 12:59:51 - Finished Spring Data repository scanning in 44 ms. Found 8 JPA repository interfaces.
+2025-07-12 12:59:51 - Tomcat initialized with port 8070 (http)
+2025-07-12 12:59:51 - Starting service [Tomcat]
+2025-07-12 12:59:51 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2025-07-12 12:59:51 - Initializing Spring embedded WebApplicationContext
+2025-07-12 12:59:51 - Root WebApplicationContext: initialization completed in 731 ms
+2025-07-12 12:59:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-07-12 12:59:51 - HHH000026: Second-level cache disabled
+2025-07-12 12:59:51 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-07-12 12:59:51 - HikariPool-3 - Starting...
+2025-07-12 12:59:51 - HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54a57f1b
+2025-07-12 12:59:51 - HikariPool-3 - Start completed.
+2025-07-12 12:59:51 - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-07-12 12:59:51 - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2025-07-12 12:59:51 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-07-12 12:59:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-07-12 12:59:52 - Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2025-07-12 12:59:52 - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used for username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider.
+2025-07-12 12:59:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-07-12 12:59:52 - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, CorsFilter, LogoutFilter, JwtAuthFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2025-07-12 12:59:52 - LiveReload server is running on port 35729
+2025-07-12 12:59:53 - Tomcat started on port 8070 (http) with context path '/'
+2025-07-12 12:59:53 - Started FooddeliveryappApplication in 2.532 seconds (process running for 907.8)
+2025-07-12 12:59:53 - Condition evaluation unchanged
+2025-07-12 12:59:53 - FOOD DELIVERY APPLICATION IS RUNNING NOW !!!
+2025-07-12 13:00:24 - Starting FooddeliveryappApplication using Java 23.0.1 with PID 27760 (D:\FinalProject\fooddeliveryapp\target\classes started by iamsr in D:\FinalProject\fooddeliveryapp)
+2025-07-12 13:00:24 - No active profile set, falling back to 1 default profile: "default"
+2025-07-12 13:00:24 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-12 13:00:24 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-12 13:00:25 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-07-12 13:00:26 - Finished Spring Data repository scanning in 125 ms. Found 8 JPA repository interfaces.
+2025-07-12 13:00:27 - Tomcat initialized with port 8070 (http)
+2025-07-12 13:00:27 - Starting service [Tomcat]
+2025-07-12 13:00:27 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2025-07-12 13:00:27 - Initializing Spring embedded WebApplicationContext
+2025-07-12 13:00:27 - Root WebApplicationContext: initialization completed in 2899 ms
+2025-07-12 13:00:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-07-12 13:00:27 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2025-07-12 13:00:27 - HHH000026: Second-level cache disabled
+2025-07-12 13:00:28 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-07-12 13:00:28 - HikariPool-1 - Starting...
+2025-07-12 13:00:28 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46bb69e2
+2025-07-12 13:00:28 - HikariPool-1 - Start completed.
+2025-07-12 13:00:29 - HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-07-12 13:00:29 - HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2025-07-12 13:00:30 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-07-12 13:00:30 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-07-12 13:00:31 - Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2025-07-12 13:00:31 - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used for username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider.
+2025-07-12 13:00:31 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-07-12 13:00:32 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-07-12 13:00:32 - Will secure any request with filters: DisableEncodeUrlFilter, WebAsyncManagerIntegrationFilter, SecurityContextHolderFilter, HeaderWriterFilter, CorsFilter, LogoutFilter, JwtAuthFilter, RequestCacheAwareFilter, SecurityContextHolderAwareRequestFilter, AnonymousAuthenticationFilter, SessionManagementFilter, ExceptionTranslationFilter, AuthorizationFilter
+2025-07-12 13:00:33 - LiveReload server is running on port 35729
+2025-07-12 13:00:33 - Tomcat started on port 8070 (http) with context path '/'
+2025-07-12 13:00:33 - Started FooddeliveryappApplication in 9.608 seconds (process running for 10.248)
+2025-07-12 13:00:33 - FOOD DELIVERY APPLICATION IS RUNNING NOW !!!
+2025-07-12 13:00:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-12 13:00:59 - Initializing Servlet 'dispatcherServlet'
+2025-07-12 13:00:59 - Completed initialization in 3 ms
+2025-07-12 13:00:59 - Securing PUT /api/v1/order-items/1
+2025-07-12 13:00:59 - Secured PUT /api/v1/order-items/1
+2025-07-12 13:01:00 - Authorizing method invocation ReflectiveMethodInvocation: public org.springframework.http.ResponseEntity com.excelr.fooddeliveryapp.controller.OrderItemController.updateOrderItem(java.lang.Long,com.excelr.fooddeliveryapp.dto.OrderItemRequestDTO); target is of class [com.excelr.fooddeliveryapp.controller.OrderItemController]
+2025-07-12 13:01:00 - Authorized method invocation ReflectiveMethodInvocation: public org.springframework.http.ResponseEntity com.excelr.fooddeliveryapp.controller.OrderItemController.updateOrderItem(java.lang.Long,com.excelr.fooddeliveryapp.dto.OrderItemRequestDTO); target is of class [com.excelr.fooddeliveryapp.controller.OrderItemController]
+2025-07-12 13:02:57 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-12 13:02:57 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-07-12 13:02:57 - HikariPool-1 - Shutdown initiated...
+2025-07-12 13:02:57 - HikariPool-1 - Shutdown completed.
